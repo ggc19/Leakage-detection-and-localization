@@ -1,8 +1,6 @@
 # research data and model instruction
 Some or all data, models, or code that support the findings of this study are available from the corresponding author upon reasonable request. Here, we present the main model codes for reviewers.
 
-The total dataset is composed of 3150 normal samples and 2330 abnormal samples. The training dataset and testing dataset are 80% and 20% of the entire dataset, respectively. Ten-fold cross-validation is selected for optimizing model parameters and verifying the training results in order to avoid overfitting.
-
 The file named 'LPC.py' is the LCP-based leakage detection models using raw datasets.
 The file named 'LPC_noise.py' is the LCP-based leakage detection models using -5dB datasets.
 The file named 'LPC.py' is the LPC-based leakage detectio models using raw datasets.
