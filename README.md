@@ -3,12 +3,12 @@ Some or all data, models, or code that support the findings of this study are av
 
 The total dataset is composed of 3150 normal samples and 2330 abnormal samples. The training dataset and testing dataset are 80% and 20% of the entire dataset, respectively. Ten-fold cross-validation is selected for optimizing model parameters and verifying the training results in order to avoid overfitting.
 
-The file named 'LPC.py' is the LCP-based leakage detectio models using raw datasets.
-The file named 'LPC_noise.py' is the LCP-based leakage detectio models using -5dB datasets.
+The file named 'LPC.py' is the LCP-based leakage detection models using raw datasets.
+The file named 'LPC_noise.py' is the LCP-based leakage detection models using -5dB datasets.
 The file named 'LPC.py' is the LPC-based leakage detectio models using raw datasets.
-The file named 'LPC_noise.py' is the LPC-based leakage detectio models using -5dB datasets.
-The file named 'Time or frequency features.py' is the time or frequency features-based leakage detectio models using raw datasets.
-The file named 'Time or frequency features_noise.py' is the time or frequency features-based leakage detectio models using -5dB datasets.
+The file named 'LPC_noise.py' is the LPC-based leakage detection models using -5dB datasets.
+The file named 'Time or frequency features.py' is the time or frequency features-based leakage detection models using raw datasets.
+The file named 'Time or frequency features_noise.py' is the time or frequency features-based leakage detection models using -5dB datasets.
 The file named 'CIS-experiment1.m' is the CIS algorithm for leakage localiztion. 
 The file named 'Ordinary-experiment1.m' is the ordinary search algorithm for leakage localiztion. 
 
