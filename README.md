@@ -12,7 +12,3 @@ The file named 'CIS_algorithm.m' is related to the CIS algorithm in experiment 1
 
 The detection models are implemented by scikit-learn tools and some python packages. Run them in Anaconda3 (Spyder) platform. 
 The signal processing methods and localization algorithms are implemented by matlab R2014a.
-
-Corresponding author: Shuming Liu, 
-Professor, School of Environment, Tsinghua University
-E-mail: shumingliu@tsinghua.edu.cn
