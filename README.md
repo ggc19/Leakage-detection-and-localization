@@ -1,5 +1,5 @@
 # Research data and model guidance for the article
-Some or all data, models, or codes that support the findings of this study are available from the corresponding author upon reasonable request. Here, we present the main model codes for reviewers.
+Some or all data, models, or codes that support the findings of this study are available from the corresponding author upon reasonable request. Here, we present the main model codes.
 
 The file named 'LPC.py' is related to LCP-based detection models using raw datasets. 
 The file named 'LPC_noise.py' is related to LCP-based detection models using -5dB datasets. 
